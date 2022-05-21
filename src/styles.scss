@@ -1,1 +1,9 @@
-/* You can add global styles to this file, and also import other style files */
+@font-face {
+  font-family: 'Outfit';
+  src: url(https://fonts.gstatic.com/s/outfit/v5/QGYyz_MVcBeNP4NjuGObqx1XmO1I4TC1O4a0Ew.woff2) format('woff2');
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}

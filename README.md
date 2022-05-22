@@ -18,7 +18,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Link
 
-[Link to test](https://bouhm-yassine.github.io/qr-challenge/)
+[Link to test](https://bouhm-yassine.github.io/nft-card/)
 
 ## My process
 

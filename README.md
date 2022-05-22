@@ -6,6 +6,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - [Overview](#overview)
   - [Screenshot](#screenshot)
+  - [Link](#link)
 - [My process](#my-process)
   - [Built with](#built-with)
 
@@ -14,6 +15,10 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Screenshot
 
 ![](./src/assets/images/output.jpg)
+
+### Link
+
+[Link to test](https://bouhm-yassine.github.io/qr-challenge/)
 
 ## My process
 
